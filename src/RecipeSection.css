@@ -1,0 +1,151 @@
+.recipe-section {
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.featured-recipes {
+  margin-top: 20px;
+}
+
+.featured-recipes h2 {
+  text-align: center;
+}
+
+.recipe-cards {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.featured-recipe-card,
+  .recipe-card {
+    width: 30%;
+    margin: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    transition: transform 0.3s;
+  }
+
+.featured-recipe-card:hover, .recipe-card:hover {
+    transform: scale(1.05);
+  }
+
+  .featured-recipes .recipe-cards {
+    flex-direction: row;
+  }
+
+  input[type="text"] {
+    max-width: 100%;
+    box-sizing: border-box;
+  }  
+
+.recipe-category {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.recipe-category-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.recipe-card {
+  width: 30%;
+  margin: 10px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.recipe-card:hover {
+  transform: scale(1.05);
+}
+
+.recipe-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.recipe-details {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.recipe-details img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.recipe-details button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.recipe-details button:hover {
+  background-color: #555;
+}
+
+.latest-additions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.latest-additions h2 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.latest-additions .recipe-card {
+  width: 30%;
+  margin: 10px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.latest-additions .recipe-card:hover {
+  transform: scale(1.05);
+}
+
+.latest-additions .recipe-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+
+
+

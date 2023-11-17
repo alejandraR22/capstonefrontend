@@ -1,0 +1,17 @@
+{
+    "home.title": "Bienvenido a la Cocina Mexicana",
+    "home.liveStream": "Transmisión en vivo de México",
+    "about.title": "Acerca de la Cocina Mexicana",
+    "about.text": "Este sitio web está dedicado a la rica y diversa cultura de México. Explora el mundo de la cocina mexicana y descubre los sabores, la historia y las tradiciones que la hacen única.",
+    "about.buttonText": "Traducir al Inglés",
+    "recipes.title": "Recetas Mexicanas",
+    "recipes.noRecipes": "No hay recetas disponibles en este momento.",
+    "shop.title": "Compra Ingredientes Mexicanos",
+    "shop.noItems": "No hay artículos disponibles en la tienda.",
+    "navbar.home": "Inicio",
+    "navbar.about": "Acerca de",
+    "navbar.recipes": "Recetas",
+    "navbar.shop": "Tienda",
+    "navbar.toggleLanguage": "Cambiar Idioma"
+  }
+  

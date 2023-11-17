@@ -1,0 +1,18 @@
+
+{
+    "home.title": "Welcome to Mexico Cuisine",
+    "home.liveStream": "Live Stream of Mexico",
+    "about.title": "About Mexico Cuisine",
+    "about.text": "This website is dedicated to the rich and diverse culture of Mexico. Explore the world of Mexican cuisine and discover the flavors, history, and traditions that make it unique.",
+    "about.buttonText": "Translate to Spanish",
+    "recipes.title": "Mexican Recipes",
+    "recipes.noRecipes": "No recipes available at the moment.",
+    "shop.title": "Shop for Mexican Ingredients",
+    "shop.noItems": "No items available in the shop.",
+    "navbar.home": "Home",
+    "navbar.about": "About",
+    "navbar.recipes": "Recipes",
+    "navbar.shop": "Shop",
+    "navbar.toggleLanguage": "Toggle Language"
+  }
+  
